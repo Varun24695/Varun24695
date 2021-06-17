@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Varun Thazhatharackal
 - 👀 I’m interested in Data Science/Deep Learning
-- 🌱 I’m currently working on Computer Vision projects
+- 🌱 I’m currently working on Computer Vision projects and eagerly looking for master thesis topics
 - 💞️ I’m looking to collaborate on a good platform where I can help in developing the companies profile as well as mine
 - 📫 How to reach me https://www.linkedin.com/in/varun-thazhatharackal/  or +49 17697731540
 
